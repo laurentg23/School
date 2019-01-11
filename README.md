@@ -1,2 +1,2 @@
 # School
-A repository of the things I've made over the various courses at school
+A repository of the projects and assignments I've made over the various courses at school
